@@ -1,0 +1,19 @@
+{
+  "name": "luminance",
+  "version": "1.0.0",
+  "description": "Luminance is a CLI tool for calculating the contrast ratio between two HEX colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[\"accessibility\"",
+    "\"contrast\"",
+    "\"CLI\"",
+    "\"design\"",
+    "\"hex\"",
+    "\"color\"]"
+  ],
+  "author": "Aghiles TIGHRINE",
+  "license": "MIT"
+}
