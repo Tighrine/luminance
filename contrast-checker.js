@@ -24,7 +24,7 @@ function rgbToHex(r, g, b) {
   return `#${toHex(r)}${toHex(g)}${toHex(b)}`.toUpperCase();
 }
 
-function contrastRatio(hex1, hex2) {
+export function contrastRatio(hex1, hex2) {
   const lum1 = luminance(...hexToRgb(hex1));
   const lum2 = luminance(...hexToRgb(hex2));
   const brightest = Math.max(lum1, lum2);

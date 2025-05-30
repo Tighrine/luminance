@@ -6,3 +6,12 @@ A command-line tool for calculating the contrast ratio between two HEX colors ac
 
 ```bash
 npm install -g contrast-checker-cli
+```
+## Usage
+
+```bash
+ contrast-checker <#hex1> <#hex2>
+ // OR
+ contrast-checker <#hex1>
+```
+
