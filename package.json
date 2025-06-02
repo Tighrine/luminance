@@ -1,6 +1,6 @@
 {
   "name": "contrast-ratio-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Luminance is a CLI tool for calculating the contrast ratio between two HEX colors.",
   "main": "contrast-checker.js",
   "bin": {

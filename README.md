@@ -14,4 +14,3 @@ npm install -g contrast-checker-cli
  // OR
  contrast-checker <#hex1>
 ```
-
